@@ -1,0 +1,5 @@
+{
+  "port": "2323",
+  "tokenStorage": "http://localhost:2324",
+  "databaseConnect": "postgres://login:pass@localhost/databaseName"
+}
